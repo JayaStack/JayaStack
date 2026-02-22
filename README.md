@@ -36,7 +36,7 @@ Always learning, improving, and turning ideas into real digital products.
 <tr>
 <td><b>Secure Auth App</b></td>
 <td>Full-stack authentication system with JWT & protected APIs</td>
-<td><a href="#">🔗 Live Demo</a></td>
+<td><a href="https://mern-auth-d45y5g1gu-jayastacks-projects.vercel.app">🔗 Live Demo</a></td>
 </tr>
 
 <tr>
