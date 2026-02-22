@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋  I'm Jaya Sarathy 👋</h1>
+<h1 align="center">Hey 👋  I'm Jaya Sarathy 👋</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🧑‍💻 About Me<br>Full-Stack Web Developer focused on building modern, scalable web applications.<br>Passionate about clean code, efficient backend systems, and responsive UI design.<br>Always learning, improving, and turning ideas into real digital products.</p>
+<h3 align="left">🧑‍💻 About Me<br>Full-Stack Web Developer focused on building modern, scalable web applications.<br>Passionate about clean code, efficient backend systems, and responsive UI design.<br>Always learning, improving, and turning ideas into real digital products.</h3>
 
 ###
 
@@ -81,25 +81,3 @@
 ###
 
 <p align="left">* Build full-stack web applications using the MERN stack<br>* Develop secure backend APIs and authentication systems<br>* Create responsive and modern user interfaces<br>* Design clean, scalable project architectures<br>* Continuously learn and apply new web technologies</p>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JayaStack.JayaStack&"  />
-</div>
-
-###
