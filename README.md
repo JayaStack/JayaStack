@@ -1,83 +1,101 @@
-<h1 align="center">Hey 👋  I'm Jaya Sarathy 👋</h1>
+<h1 align="center">👋 Hey, I'm Jaya Sarathy</h1>
 
-###
+<h3 align="center">🚀 Full-Stack Web Developer | Where ideas meet technology</h3>
 
-<br clear="both">
+<hr/>
 
-<p align="center">Full-Stack Web Developer | Where ideas meet technology</p>
+<h2>🧑‍💻 About Me</h2>
 
-###
+<p>
+Full-Stack Web Developer focused on building modern, scalable web applications.<br>
+Passionate about clean code, efficient backend systems, and responsive UI design.<br>
+Always learning, improving, and turning ideas into real digital products.
+</p>
 
-<h3 align="left">🧑‍💻 About Me<br>Full-Stack Web Developer focused on building modern, scalable web applications.<br>Passionate about clean code, efficient backend systems, and responsive UI design.<br>Always learning, improving, and turning ideas into real digital products.</h3>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDM2ZGRsbjlld2kwbWJnYmg3cjV6N240a283Y3FnM3N6eXE4ZmgxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfY2lmZyZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif" width="400"/>
+</p>
 
-###
+<hr/>
 
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDM2ZDdsbjlld2kwbWJnYmg3cjV6N24wa283Y3FnM3N6eXE4ZmgxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
-</div>
+<h2>📌 Featured Projects</h2>
 
-###
+<table>
+<tr>
+<th>🚀 Project</th>
+<th>🧩 Description</th>
+<th>🌐 Live</th>
+</tr>
 
-<h2 align="left">PROJECTS</h2>
+<tr>
+<td><b>Personal Portfolio Website</b></td>
+<td>Responsive React portfolio showcasing projects, skills, and contact info</td>
+<td><a href="#">🔗 Live Demo</a></td>
+</tr>
 
-###
+<tr>
+<td><b>Secure Auth App</b></td>
+<td>Full-stack authentication system with JWT & protected APIs</td>
+<td><a href="#">🔗 Live Demo</a></td>
+</tr>
 
-<p align="left">Personal Portfolio Website<br>● Built a responsive portfolio using React to showcase projects, skills, and contact information<br>● Implemented reusable components for better user experience<br>Secure Auth APP<br>● Developed a full-stack authentication system with user signup logic<br>● Implemented JWT-based authentication and protected REST APIs<br>Task Manager App<br>● Created a task management application with CRUD operations<br>● Integrated frontend and backend using REST APIs with stored data<br>Online Store Application<br>● Developed a full-stack e-commerce application with multiple features<br>● Implemented user authentication, product listing, and order processin</p>
+<tr>
+<td><b>Task Manager App</b></td>
+<td>CRUD-based task management app using REST APIs</td>
+<td><a href="#">🔗 Live Demo</a></td>
+</tr>
 
-###
+<tr>
+<td><b>Online Store Application</b></td>
+<td>Full-stack e-commerce app with authentication & order processing</td>
+<td><a href="#">🔗 Live Demo</a></td>
+</tr>
 
-<h2 align="left">Tech Stack</h2>
+</table>
 
-###
+<hr/>
 
-<p align="left">Frontend</p>
+<h2>🛠️ Tech Stack</h2>
 
-###
+<h3>🎨 Frontend</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+</p>
 
-<br clear="both">
+<h3>⚙️ Backend</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-</div>
+<h3>🗄️ Database</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
+</p>
 
-###
+<hr/>
 
-<p align="left">Backend</p>
+<h2>🌟 What I Do</h2>
 
-###
+<ul>
+<li>Build full-stack web applications using the MERN stack</li>
+<li>Develop secure backend APIs and authentication systems</li>
+<li>Create responsive and modern user interfaces</li>
+<li>Design clean and scalable architectures</li>
+<li>Continuously learn and apply new web technologies</li>
+</ul>
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-</div>
+<hr/>
 
-###
+<h2>📊 GitHub Stats</h2>
 
-<p align="left">Database</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
-###
+<hr/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-</div>
+<h2>✨ Motto</h2>
 
-###
-
-<h2 align="left">🌟 What I Do</h2>
-
-###
-
-<p align="left">* Build full-stack web applications using the MERN stack<br>* Develop secure backend APIs and authentication systems<br>* Create responsive and modern user interfaces<br>* Design clean, scalable project architectures<br>* Continuously learn and apply new web technologies</p>
+<p align="center"><b>Build • Learn • Improve • Repeat</b></p>
